@@ -1,1 +1,10 @@
-yes
+
+media: media
+
+content:
+  - name: homepage
+    label: Website Home Page
+    type: file
+    path: index.html
+    format: code
+    fields: []
